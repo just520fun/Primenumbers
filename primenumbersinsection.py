@@ -42,8 +42,8 @@ if __name__ == '__main__':
     #or
     #Sn n*(n-1)/2*2*36+1 n*(n+1)/2*2*36
     
-    secstart= 801 #Section start no.
-    secstop= 900 #Section stop no.
+    secstart= 1 #Section start no.
+    secstop= 1000 #Section stop no.
     
     i=secstart
     pnstart=int(secstart*(secstart-1)/2*2*36+1)
