@@ -41,3 +41,6 @@
 
 #《Experience of Optimizing FFT on Intel Architectures》 
 # http://www.capsl.udel.edu/pub/doc/papers/POHLL2007-Daniel.pdf
+
+# Or even more deep dive to DSP/FPGA or even ASIC    
+
